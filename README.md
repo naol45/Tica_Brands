@@ -1,2 +1,2 @@
-# my-first-naol
-it is my first repository
+# my-first-project
+it is my first ever repository built for ICT Club
